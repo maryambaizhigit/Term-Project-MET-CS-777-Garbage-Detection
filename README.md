@@ -3,7 +3,7 @@
 
 
 ## Introduction
-The Garbage Detection and Classification System is designed to apply advanced machine learning techniques to accurately identify and categorize garbage items from images. This automated system supports efficient waste sorting and management, promoting recycling efforts and environmental sustainability.
+The Garbage Detection and Classification System is designed to apply advanced machine learning techniques to accurately identify and categorize garbage items from images. It supports efficient waste sorting and management, promoting recycling efforts and environmental sustainability.
 
 ## Dependencies 
 Ensure these libraries and frameworks are installed to run the project:
