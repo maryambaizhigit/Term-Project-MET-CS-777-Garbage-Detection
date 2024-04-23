@@ -31,10 +31,12 @@ After downloading, please ensure to follow the dataset's directory structure as 
 3. The expected directory structure should be:
 data/
 ├── annotations.json
+
 └── batch_1/
+
 └── batch_2/
 ...
-4. Update the data loading paths in the scripts to match the location of your `data` directory.
+5. Update the data loading paths in the scripts to match the location of your `data` directory.
 
 ## Authors
 <b>Kaiwen Zhu, Maryam Baizhigitova, Linxin Zhou</b>
