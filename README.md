@@ -32,7 +32,7 @@ After downloading, please ensure to follow the dataset's directory structure as 
 Before you begin, ensure you have met the following requirements:
 * You have installed the latest version of Python 3.
 * You have a `<Windows/Linux/Mac>` machine. State which OS is supported/required.
-* You have read this documentation.
+* You have read the project documentation.
 
 ## Running the Code
 
