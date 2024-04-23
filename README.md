@@ -1,4 +1,4 @@
-# Term-Project-METCS-777-Team#11
+# METCS777-Term-Project-Team#11
 <h1 align="center" font-size:16px"><b>Garbage Detection and Classification system</b></h1>
 
 
