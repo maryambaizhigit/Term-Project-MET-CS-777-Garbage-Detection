@@ -25,6 +25,25 @@ To replicate our results or use the TACO dataset for your own experiments, you c
 
 After downloading, please ensure to follow the dataset's directory structure as required by the scripts and Jupyter Notebooks in this repository.
 
+# How to Run the Code
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+* You have installed the latest version of Python 3.
+* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/required.
+* You have read this documentation.
+
+## Running the Code
+
+To run the code, follow these steps:
+
+1. Clone the repository to your local machine: git clone https://github.com/yourusername/your-repository-name.git
+2. Navigate to the cloned repository directory.
+3. Install the required packages.
+4. Run the scripts for each model.
+5. Add any additional instructions if the code needs to be run with specific flags or configurations.
+
 ## Dataset Preparation
 1. Download the TACO dataset from the above link.
 2. Unzip the dataset into a directory named `data`.
@@ -40,6 +59,11 @@ data/
 ...
 
 5. Update the data loading paths in the scripts to match the location of your `data` directory.
+
+
+
+
+
 
 ## Authors
 <b>Kaiwen Zhu, Maryam Baizhigitova, Linxin Zhou</b>
