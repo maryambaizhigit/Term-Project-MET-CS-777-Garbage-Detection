@@ -38,8 +38,8 @@ Before you begin, ensure you have met the following requirements:
 
 To run the code, follow these steps:
 
-1. Clone the repository to your local machine: git clone https://github.com/yourusername/your-repository-name.git
-2. Navigate to the cloned repository directory.
+1. Clone the repository to your local machine: git clone https://github.com/maryambaizhigit/Term-Project-MET-CS-777-Garbage-Detection.git
+2. Navigate to the cloned repository directory: cd your-repository-name
 3. Install the required packages.
 4. Run the scripts for each model.
 5. Add any additional instructions if the code needs to be run with specific flags or configurations.
