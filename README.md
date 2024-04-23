@@ -30,12 +30,15 @@ After downloading, please ensure to follow the dataset's directory structure as 
 2. Unzip the dataset into a directory named `data`.
 3. The expected directory structure should be:
 data/
+
 ├── annotations.json
 
 └── batch_1/
 
 └── batch_2/
+
 ...
+
 5. Update the data loading paths in the scripts to match the location of your `data` directory.
 
 ## Authors
