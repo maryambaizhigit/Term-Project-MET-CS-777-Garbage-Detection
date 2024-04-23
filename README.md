@@ -1,1 +1,1 @@
-# Term-Project-MET-CS-777-Garbage-Detection
+# Term-Project-METCS-777-Garbage-Detection
