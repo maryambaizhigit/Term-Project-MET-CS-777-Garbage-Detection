@@ -72,9 +72,9 @@ data/
 
 5. Update the data loading paths in the scripts to match the location of your `data` directory.
 6. Execute the scripts in your environment (anaconda-Jupyter Notebook):
-   For CNN model, run `METCS777-term-project-code-sample-MaryamBaizhigitova-Team#11.ipynb`
-   For Faster R-CNN model, run `METCS777-term-project-code-sample-KaiwenZhu-Team#11.ipynb`
-   For SVM model, run `METCS777-term-project-code-sample-LinxinZhou-Team#11.ipynb`
+   - For CNN model, run `METCS777-term-project-code-sample-MaryamBaizhigitova-Team#11.ipynb`
+   - For Faster R-CNN model, run `METCS777-term-project-code-sample-KaiwenZhu-Team#11.ipynb`
+   - For SVM model, run `METCS777-term-project-code-sample-LinxinZhou-Team#11.ipynb`
 
 7. If needed, modify any configuration files or flags as required by your experimental setup.
 
